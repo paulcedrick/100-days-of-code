@@ -22,3 +22,13 @@
 [Ignored dev.sqlite3 created for testing purposes](https://github.com/paulcedrick/NoteMaker/commit/eee1fb7a1e891cba4ba864e3156b723cd4d34c05)
 
 [Files that had been removed](https://github.com/paulcedrick/NoteMaker/commit/98fab6401ba4f6ad280aa0927d17d49299409d33)
+
+### Day 2: January 10, 2017
+
+**Today's Progress**: Today, I added delete function and a test for the delete function.
+
+**Thoughts:** I'm trying to understand when to use spy, stub and mocks. It seems that some of the things I am testing needs stub more than spies. I'm still confused that's why I'm still researching when to use spy, stub and mock.
+
+**Link to work:** 
+
+[Added delete function with test](https://github.com/paulcedrick/NoteMaker/commit/526c75e4079569c122eeeaa85ff17a70284a71ef)
