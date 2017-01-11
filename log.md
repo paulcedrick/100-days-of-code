@@ -32,3 +32,14 @@
 **Link to work:** 
 
 [Added delete function with test](https://github.com/paulcedrick/NoteMaker/commit/526c75e4079569c122eeeaa85ff17a70284a71ef)
+
+### Day 3: January 11, 2017
+
+**Today's Progress**: Today, I added unit test for createNote function and updateNote function of the API.
+
+**Thoughts:** I don't feel motivated to work on the project I'm doing since I'm not sure if I'm doing TDD the right way or if I'm writing the right unit test.
+
+**Link to work:** 
+
+[Added createNote function to api with test](https://github.com/paulcedrick/NoteMaker/commit/7e9f6407f5fc834c6864a527d4cb79a10c921ca7)
+[Added updateNote function to api with test](https://github.com/paulcedrick/NoteMaker/commit/f01ee32b20516e84a3d5ebf2d92f11c66ab49663)
